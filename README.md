@@ -1,6 +1,6 @@
 # Update-Chrome-Driver
 
-This is a powershell scrip thatt has two main purposes:
+This is a powershell script that has two main purposes:
 
 1) set up the system path environmental variable for ChromeDriver.exe to be able to run this from whatever location (**Needs admin access rights for that**)
 2) get the corresponding version of Chrome driver for the installed Chrome browser
